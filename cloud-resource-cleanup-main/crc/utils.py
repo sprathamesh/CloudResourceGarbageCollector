@@ -1,5 +1,3 @@
-# Copyright (c) Yugabyte, Inc.
-
 import logging
 
 LOG_FORMATTER = (
